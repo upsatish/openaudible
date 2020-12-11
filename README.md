@@ -1,6 +1,8 @@
 # OpenAudible
 A cross-platform desktop application for downloading and managing your Audible audiobooks.
 
+![build status badge](https://codebuild.ap-southeast-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiaWs2Q2pIaGFJcWNwb284RkpWVjhPTmpUMEc0T0lhUFpYb3Z2cmlnbDdSdzFyU2t1WjZhYTI0TDM2Rit4MWJrR0VmZEZvR0dCMEtFQ2VVWDF1aXI5VVh3PSIsIml2UGFyYW1ldGVyU3BlYyI6InUycndQMjYrK21STCthVmYiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=development)
+
 ## Latest Binary Release
 
 [Download](https://openaudible.org) installers for Windows, Mac and Linux. (64bit)
